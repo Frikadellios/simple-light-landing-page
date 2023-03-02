@@ -1,0 +1,99 @@
+.root:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox___3DWio {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox__fxPUy {
+  display: flex;
+  flex-direction: column;
+}
+.freeBox__fxPUy > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox__fxPUy > :global(.__wab_flex-container) > *,
+.freeBox__fxPUy > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__fxPUy > :global(.__wab_flex-container) > picture > img,
+.freeBox__fxPUy
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.slotTargetName {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  color: var(--token-NEon4Y--Z);
+}
+.text__diTdo {
+  font-size: 48px;
+}
+.freeBox__hC4D {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.freeBox__hC4D > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox__hC4D > :global(.__wab_flex-container) > *,
+.freeBox__hC4D > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__hC4D > :global(.__wab_flex-container) > picture > img,
+.freeBox__hC4D
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.bullet__zAv1:global(.__wab_instance) {
+  position: relative;
+}
+.bullet__qoLlN:global(.__wab_instance) {
+  position: relative;
+}
+.bullet__fFwM:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__hWoqq {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: calc(13px + 8px) !important;
+}
+.button__rKRj9:global(.__wab_instance) {
+  position: relative;
+}
+.svg__uqMxW {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__bEiw1 {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__vwmFj {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+}
